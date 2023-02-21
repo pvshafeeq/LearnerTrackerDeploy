@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://ictaklt2023:ictak54321@cluster0.g03liu7.mongodb.net/LearnerTrackerDB?retryWrites=true&w=majority"
+  }
